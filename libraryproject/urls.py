@@ -1,4 +1,6 @@
 import apps.bookmodule.views
+#import apps.bookmodule.views
+
 
 """
 URL configuration for libraryproject project.
